@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.parallec:parallec-core:0.10.1-beta">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.parallec/parallec-core/0.10.1-beta/e7958e789f56102e175b844c366d3cbc0bd34109/parallec-core-0.10.1-beta.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.parallec/parallec-core/0.10.1-beta/353cd3254864ff6e45ca9c876f9d14a4c686583b/parallec-core-0.10.1-beta-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
